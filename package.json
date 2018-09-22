@@ -1,0 +1,21 @@
+{
+  "name": "version-banner",
+  "version": "1.0.0",
+  "description": "This is a tool to generate version banners used by Bastion.",
+  "main": "./dist/app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheBastionBot/version-banner.git"
+  },
+  "author": "Sankarsan Kampa",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/TheBastionBot/version-banner/issues"
+  },
+  "homepage": "https://github.com/TheBastionBot/version-banner#README"
+}
